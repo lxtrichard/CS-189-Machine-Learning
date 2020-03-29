@@ -16,10 +16,10 @@ This is my implementation of the coding homework in CS 189.
 
 ## HW4 Logistic Regression
 
-1. Implemented logistic regression with $l_2$ regularization with gradient decent and stochastic gradient descent.
+1. Implemented logistic regression with L2 regularization with gradient decent and stochastic gradient descent.
 2. Varied the learning rate of stochastic gradient descent.
 
-## HW5 Decision Trees for Classication
+## HW5 Decision Trees for Classification
 
 1. Designed a decision tree and random forest.
 2. Utilized the tree model to classify the spam and Titanic dataset.
